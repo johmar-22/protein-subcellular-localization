@@ -80,4 +80,4 @@ protein-subcellular-localization/   ← name this after your paper
 - data/uniprot_strict_v6.fasta — raw source sequences downloaded from UniProt
   using the Boolean queries in the Methods section (SL-0191, SL-0086, SL-0173, SL-0039)
 
-## UNDER REVIEW
+## PAPER UNDER REVIEW
