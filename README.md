@@ -10,6 +10,7 @@ to predict protein subcellular localization into four classes:
 Nucleus, Cytoplasm, Mitochondrion, and Cell Membrane.
 
 ## Repository Structure
+```
 protein-subcellular-localization/   ← name this after your paper
 │
 ├── README.md                         ← see Section 5 for what to write
@@ -49,7 +50,7 @@ protein-subcellular-localization/   ← name this after your paper
     ├── Figure4_Best_Nucleus.png
     ├── Figure4_Best_Cytoplasm.png
     └── Figure5_tSNE_Clusters.png
-
+```
 
 ## Reproducing the Results
 
