@@ -1,0 +1,14 @@
+numpy<2.0
+pandas
+scikit-learn
+tensorflow>=2.10
+torch
+transformers>=4.30
+accelerate
+biopython
+seaborn
+matplotlib
+tqdm
+scipy
+requests
+SciencePlots
