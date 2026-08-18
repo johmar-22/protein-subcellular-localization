@@ -287,6 +287,6 @@ Questions, or anything further you believe should be listed here, are welcome by
 on this repository.
 
 Johaimen M. Omar
-Institute of Graduate Education, Kastamonu University, Kastamonu 37200, Türkiye
+Institute of Graduate Education, Kastamonu University, Kastamonu 37200, Türkiye | 
 Mindanao State University-Main Campus, Marawi City, Lanao del Sur 9700, Philippines
 johaimen.omar@msumain.edu.ph / 241057007@ogr.kastamonu.edu.tr
