@@ -27,20 +27,6 @@ in Part 1. No result, table, figure or conclusion of the article changes.
 Part 4 adds a significance test that was not in the original article. It confirms the published
 conclusions under a more appropriate test.
 
----
-
-> **⚠ BEFORE PUBLISHING THIS FILE — DELETE THIS BLOCK**
->
-> One decision is left to you: **Item 6 (the 57% figure).** `attention_signal_correlation.csv` covers
-> only the 181 test proteins carrying UniProt-annotated targeting features, and Q99LC3 is not among
-> them, so the figure still cannot be verified from committed data. The drafted correction states the
-> verifiable fact (positions 5–28 are ~7% of the sequence) and notes that 57% appears to have been
-> carried over from the Nucleus alignment rate on the following page. If you can recover the attention
-> array for Q99LC3 and 57% turns out to be its attention mass, use the alternative wording given in
-> that item instead. Either version is defensible; the current one is safer.
-
----
-
 ## Why this note exists
 
 A list of corrections was submitted to the journal on 30 July 2026, during proof review and before
