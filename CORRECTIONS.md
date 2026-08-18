@@ -268,11 +268,7 @@ performance rather than as a demonstration of superiority.
 | Date | Action |
 |---|---|
 | 30 July 2026 | Proof corrections submitted to the editorial office |
-| [date] | Article published without the submitted corrections applied |
-| [date] | Correction requested |
-| | *awaiting response* |
-
-This section will be updated when the journal responds.
+| 17 Aug 2026 | Article published without the submitted corrections applied |
 
 ---
 
