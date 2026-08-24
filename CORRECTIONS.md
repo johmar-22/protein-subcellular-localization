@@ -31,8 +31,8 @@ conclusions under a more appropriate test.
 
 A list of corrections was submitted to the journal on 30 July 2026, during proof review and before
 publication. Those corrections were not applied to the published version, and the article went to
-press without them. A formal correction has been requested from the editorial office. This note is
-provided in the meantime so that readers arriving here through the article's Data Availability
+press without them. This note is
+provided so that readers arriving here through the article's Data Availability
 statement have the corrected text and can see the verification behind it.
 
 ---
